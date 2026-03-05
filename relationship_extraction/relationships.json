@@ -1,0 +1,2717 @@
+[
+    {
+        "subject": "Pengsong Zhang",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence, Open Access, Scientific Discovery"
+    },
+    {
+        "subject": "Horizons Chris Lu",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Landscape"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML Testing"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence and Machine Learning N. Kühl Electronic Markets"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "2024-11-09"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Data Privacy and Security"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Security"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Data Privacy"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "AI/ML Applications"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Open Radio Access Networks (Open RAN"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "early-2025"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "HAS_TOPIC",
+        "object": "Experienced Open-Source Developer Productivity Various Authors Empirical Study / Preprint Not Assigned"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Research Agents for Machine Learning Search, Exploration"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Agents"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "Machine Learning Research"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "Horizons Various Authors Survey Paper Not"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "ML Testing"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "Software Engineering"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Energy-Efficient Open Radio Access Networks Various Authors IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Energy Efficiency"
+    },
+    {
+        "subject": "Trustworthy AI",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "https://arxiv.org/search/?query=explainable+AI+decision+support+systems"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_ON",
+        "object": "2026-01-21"
+    },
+    {
+        "subject": "Challenges",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Perspectives R. I. Mukhamediev",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "MDPI"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "math10152552 Systematic"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Review"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_ON",
+        "object": "2022"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Companion Care Sindhu"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Social Robotics, Human-Robot Interaction Mar-Apr"
+    },
+    {
+        "subject": "Pengsong Zhang",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Xiang Hu",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Scientists"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_ON",
+        "object": "December 17, 2025"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Data Privacy and Security"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning Not Assigned"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Ghribi  A Living Review Pipeline for AI/ML Applications"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "October 14, 2025"
+    },
+    {
+        "subject": "Joel Becker",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "July 25, 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "HAS_TOPIC",
+        "object": "Experienced Open-Source Developer Productivity"
+    },
+    {
+        "subject": "Edan Toledo",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Karen Hambardzumyan AI",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Jie M. Zhang",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Mark Harman",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Lei Ma",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Yang Liu",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Machine Learning",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "2019"
+    },
+    {
+        "subject": "L. Malakalapalli",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "April 25, 2025"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning  "
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "July-December 2024"
+    },
+    {
+        "subject": "Alex Fernando",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Computer Scientist"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_ON",
+        "object": "January-June 2025"
+    },
+    {
+        "subject": "Shijie Lian",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Bin Yu BayesianVLA",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Latent Action Queries"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_ON",
+        "object": "January 21, 2026"
+    },
+    {
+        "subject": "Farha Khan",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Pratima Ojha",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Ghizal Firdous Ansari",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Machine Learning",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence (AI) Approaches to"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Unstructured Data"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "HAS_TOPIC",
+        "object": "Pure and Applied Mathematics Journal  "
+    },
+    {
+        "subject": "Christopher Collins",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Denis Dennehy Artificial",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Jose Ramon Saura",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Domingo Ribeiro-Soriano",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Nina Savela",
+        "relation": "WROTE",
+        "object": "Paper_13"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Ian Goodfellow",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Mehdi Mirza",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Bing Xu",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "David Warde-Farley",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Sherjil Ozair",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Aaron Courville",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Yoshua Bengio",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Z. Ghahramani",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "M. Welling",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "C. Cortes",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "N. Lawrence",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "K.Q. Weinberger",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "Neural Information Processing Systems"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "Curran Associates, Inc."
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_ON",
+        "object": "2014"
+    },
+    {
+        "subject": "Ghribi",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Kevin",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Barbara",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Eich",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Andrew K.,",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Shea",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Thomas",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Gianluca",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "AI IN DATA"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "SECURITY"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Welsch"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "HAS_TOPIC",
+        "object": "Annika"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "HAS_TOPIC",
+        "object": "Adrian"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE Communications Surveys & Tutorials"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "1376 1411, 2023"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "HAS_TOPIC",
+        "object": "Understanding O-RAN: Architecture"
+    },
+    {
+        "subject": "Loredana Fattorini",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Raymond Perrault",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Yolanda Gil",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Vanessa Parli",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Njenga Kar",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Emily Capstick",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Anka Reuel",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Erik Brynjolfsson",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "John Etchemendy",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Katrina Ligett",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Terah Lyons",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "James Manyika",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Juan Carlos Niebles",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Yoav Shoham",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Russell Wald",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Tobi Walsh",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Armin Hamrah",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Lapo Santarlasci",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Julia Betts Lotufo",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Alexandra Rome",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Andrew Shi",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Sukrut Oak",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "07139"
+    },
+    {
+        "subject": "Albert Örwall",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Kexun Zhang",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Yuxi Xie",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "William Yang Wang",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "The Thirteenth International Conference on Learning Representations"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "HAS_TOPIC",
+        "object": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity Antonis Antoniades"
+    },
+    {
+        "subject": "Kexin Pei",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Yinzhi Cao",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Junfeng Yang",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Suman Jana",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Symposium on Operating Systems Principles"
+    },
+    {
+        "subject": "Horizons V. Gudepu",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "B. Pappu",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "R. Bassoli",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "F. H. Fitzek",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "L. Valcarenghi",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "D. Devi",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "K. Kondepu",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "Machine Learning Testing: Survey"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "T. Javvadi"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "Micro Data Centers for Firefighting"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "HAS_TOPIC",
+        "object": "Edge Computing in"
+    },
+    {
+        "subject": "B. Pappu",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "R. Bassoli",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "F. H. Fitzek",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "L. Valcarenghi",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "D. Devi",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "K. Kondepu",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "C. Freitag",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "M. Berners-Lee",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "B. Knowles",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "G. S. Blair",
+        "relation": "WROTE",
+        "object": "Paper_7"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "T. Javvadi"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "Micro Data Centers for Firefighting"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "Friday"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "HAS_TOPIC",
+        "object": "Edge Computing in"
+    },
+    {
+        "subject": "Doshi-Velez",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "Ribeiro",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "M. T.",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "the ACM SIGKDD Conference"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_ON",
+        "object": "2017"
+    },
+    {
+        "subject": "Cosmic Bulletin of Business Management",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "H., & Ajmal"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "S."
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Department of Management Sciences"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "UMT"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Unsupervised"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_ON",
+        "object": "2023"
+    },
+    {
+        "subject": "BayesianVLA",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Shuai Bai",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Yuxuan Cai",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Ruizhe Chen",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Keqin Chen",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Xionghui Chen",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Zesen Cheng",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Lianghao Deng",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Wei Ding",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Chang Gao",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Chunjiang Ge",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Wenbin Ge",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Zhifang Guo",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Qidong Huang",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Jie Huang",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Fei Huang",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Binyuan Hui",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Shutong Jiang",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Zhaohai Li",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Mingsheng Li",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Latent Action Queries"
+    },
+    {
+        "subject": "Azhir",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Ali S",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Ahmed OH",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Yassin Ghafour M",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Hasan Ahmed S",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Hosseinzadeh M. Artifi",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Comput Sci",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence (AI) Approaches to"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Unstructured Data Rahmani AM"
+    },
+    {
+        "subject": "Ballew",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "B.",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "26th International World Wide Web Conference"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "Journal of Electronic Resources"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_ON",
+        "object": "2017"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_ON",
+        "object": "2009"
+    },
+    {
+        "subject": "Atzmüller",
+        "relation": "WROTE",
+        "object": "Paper_13"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "European Journal of Research Methods"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Social Sciences"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_ON",
+        "object": "2010"
+    },
+    {
+        "subject": "S. F.",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "T.",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Allen",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "D. K., & Shoard",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "Wamba"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  https://doi.org/10.1016/j.ijinfomgt.2019.01.020"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "An International Electronic Journal"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_ON",
+        "object": "2019"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_ON",
+        "object": "2005"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "HAS_TOPIC",
+        "object": "R."
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "HAS_TOPIC",
+        "object": "Foropon"
+    },
+    {
+        "subject": "Pengsong Zhang1*†",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Guowei Huang3†",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Yang Qi4†",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Heng Zhang5†",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Jiaxing Song6",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Shuo Yin9",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Chengxiao Dai10",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Eric Hanchen\nJiang11",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Boqin Yuan8",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Jing",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Guinan",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Guanren Qiao15",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Anghong",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Lili Pan18*",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Zhenzhong Lan2*",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Xinyu Liu1",
+        "relation": "WROTE",
+        "object": "Paper_0"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "Planck Institute for Intelligent Systems,15The Chinese University of Hong Kong,16National University of Singapore"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Machine Learning",
+        "relation": "WROTE",
+        "object": "Paper_1"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "IJAIML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Faculty of Education"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Amrapali University"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Nainital"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Department of Computer Science and Engineering"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Amrapali University"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Nainital"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_IN",
+        "object": "Ethical Implications"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_ON",
+        "object": "July-Dec 2024"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_ON",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_ON",
+        "object": "9339"
+    },
+    {
+        "subject": "Paper_1",
+        "relation": "PUBLISHED_ON",
+        "object": "the past ten years"
+    },
+    {
+        "subject": "Laurence T. Yang6,1,†Zhaolong",
+        "relation": "WROTE",
+        "object": "Paper_2"
+    },
+    {
+        "subject": "Chen2,3,9,†\n1HUST2ZGCA3ZGCI4HIT5HKUST(GZ)6ZZU7BUAA8ECNU9DeepCybo",
+        "relation": "WROTE",
+        "object": "Paper_2"
+    },
+    {
+        "subject": "BayesianVLA",
+        "relation": "WROTE",
+        "object": "Paper_2"
+    },
+    {
+        "subject": "Kim et al.",
+        "relation": "WROTE",
+        "object": "Paper_2"
+    },
+    {
+        "subject": "Liu et al.",
+        "relation": "WROTE",
+        "object": "Paper_2"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "BayesianVLA: Bayesian Decomposition of Vision Language Action\nModels via"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Latent Action Queries\nShijie"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Collapse"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Pointwise Mutual Information"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "PMI"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "SimplerEnv"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "Casa"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_IN",
+        "object": "SimplerEnv"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "2026-01-22"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "HAS_TOPIC",
+        "object": "proposeBayesianVLA"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "HAS_TOPIC",
+        "object": "Bayesian"
+    },
+    {
+        "subject": "Paper_2",
+        "relation": "HAS_TOPIC",
+        "object": "Action Queries"
+    },
+    {
+        "subject": "https://doi.org/10.11648/j.pamj.20251405.12",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Pratima Ojha1",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Ghizal Firdous",
+        "relation": "WROTE",
+        "object": "Paper_3"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Science Publishing Group"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "the Creative Commons Attribution 4.0 License"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Approaches to Unstructured Data  \nFarha Khan1"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Mathematics, Madhyanchal Professional University"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Physics"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Madhyanchal Professional University"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "BDPM"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_IN",
+        "object": "Unstructured Data"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "14"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "20 July 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "August 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "September 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "relation": "HAS_TOPIC",
+        "object": "Pure and Applied Mathematics Journal"
+    },
+    {
+        "subject": "Christopher Collinsa",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Denis Dennehya",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Kieran Conboya",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Patrick Mikalefb",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Chi",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Huang",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Mobasher",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Noriega",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Garcia",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Ali",
+        "relation": "WROTE",
+        "object": "Paper_4"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "CC"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "bNorwegian University of Science and Technology"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "Høgskoleringen 1"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "Nissen & Sengupta"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "Rodriguez-Aguilar"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "Sierra"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_IN",
+        "object": "Mettler"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "102383"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "8 July 2021"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "recent years"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "between 2005"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "1877"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "1998"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2006"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "1998"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2018"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "PUBLISHED_ON",
+        "object": "2014"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "HAS_TOPIC",
+        "object": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+        "subject": "Paper_4",
+        "relation": "HAS_TOPIC",
+        "object": "Youngdahl"
+    },
+    {
+        "subject": "Nina Savelaa",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Atte Oksanena",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Max Pellertb",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "David Garciab",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "COVID-19",
+        "relation": "WROTE",
+        "object": "Paper_5"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "aFaculty of Social Sciences"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Tampere University \nbInstitute of"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Interactive Systems"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Data Science, Department of Computer Science and Biomedical Engineering"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Graz University of Technology \ncComplexity Science Hub Vienna"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "dCenter"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Medical Statistics"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Informatics"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Intelligent Systems"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "Medical University"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_IN",
+        "object": "organi -\nzation"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "102361"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "May 2021"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "2019"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_5",
+        "relation": "PUBLISHED_ON",
+        "object": "many years"
+    },
+    {
+        "subject": "Jose Ramon Sauraa",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Domingo Ribeiro-Sorianob",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Daniel Palacios-Marqu",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "aRey Juan Carlos University",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Universitat de Valencia",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Valencia",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Valencia",
+        "relation": "WROTE",
+        "object": "Paper_6"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "cUniversitat Politˇecnica de Valˇencia"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "UGD"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "SLR"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_IN",
+        "object": "UGD"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "102331"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "February 2021"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_6",
+        "relation": "PUBLISHED_ON",
+        "object": "recent years"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "IJAIML"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_IN",
+        "object": "SECURITY"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "35-49"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_7",
+        "relation": "PUBLISHED_ON",
+        "object": "9339"
+    },
+    {
+        "subject": "Caen",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "Springer",
+        "relation": "WROTE",
+        "object": "Paper_8"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "InspireHEP"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "Crossref"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "HTML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "PDF"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "EXformats"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "surro-\ngate"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_ON",
+        "object": "October 14, 2025"
+    },
+    {
+        "subject": "Paper_8",
+        "relation": "PUBLISHED_ON",
+        "object": "/month"
+    },
+    {
+        "subject": "R. Soundrarajan",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "C. Fiandrino",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "L. Bonati",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "T. Melodia",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Rahul Soundrarajan",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Claudio Fiandrino",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Michele",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Leonardo Bonati",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Tommaso Melodia",
+        "relation": "WROTE",
+        "object": "Paper_9"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE COMMAG"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE COMMUNICATIONS MAGAZINE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "VOL"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "the Radio Access Network"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "EXplainable Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Deep Reinforcement Learning"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "DRL"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_IN",
+        "object": "Decision Tree"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "PUBLISHED_ON",
+        "object": "MAY 2025 1"
+    },
+    {
+        "subject": "Paper_9",
+        "relation": "HAS_TOPIC",
+        "object": "DT"
+    },
+    {
+        "subject": "Beth Barnes",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "David Rein",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Claude 3.5/3.7 Sonnet",
+        "relation": "WROTE",
+        "object": "Paper_10"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Model Evaluation & Threat Research"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "RCT"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Cursor Pro"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_IN",
+        "object": "Frontier AI"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_ON",
+        "object": "February"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_ON",
+        "object": "June 2025"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "PUBLISHED_ON",
+        "object": "early-2025"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "HAS_TOPIC",
+        "object": "Measuring the Impact of Early-2025"
+    },
+    {
+        "subject": "Paper_10",
+        "relation": "HAS_TOPIC",
+        "object": "Experienced Open-Source Developer Productivity\nJoel Becker∗, Nate Rush∗"
+    },
+    {
+        "subject": "Alexis Audran-Reiss1,Michael",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Jiang1,Alisia Maria Lupidi1,Andrei",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Raileanu1,Kelvin Niu1,Tatiana",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Sodhani1,Alexander H. Miller1,Abhishek Charnalia1,Derek Dunfield1,Carole -Jean\nWu1,Pontus Stenetorp2,Nicola Cancedda1,Jakob Nicolaus Foerster1,Yoram Bachrach1\n1FAIR",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Kaggle",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Kaggle",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Karen Hambardzumyan",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Martin Josifoski",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Yoram Bachrach",
+        "relation": "WROTE",
+        "object": "Paper_11"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "AI Research Agents for Machine Learning: Search"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Meta,2University College London,3Örebro University"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "UNO"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Meta\nAI"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "Greedy"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "MCTS, Evolutionary"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "PUBLISHED_ON",
+        "object": "July 4, 2025"
+    },
+    {
+        "subject": "Paper_11",
+        "relation": "HAS_TOPIC",
+        "object": "Edan"
+    },
+    {
+        "subject": "Jie M. Zhang",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Mark Harman",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Lei Ma",
+        "relation": "WROTE",
+        "object": "Paper_12"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "Software"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "DeepXplore"
+    },
+    {
+        "subject": "Paper_12",
+        "relation": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "B. Chirumamilla†",
+        "relation": "WROTE",
+        "object": "Paper_13"
+    },
+    {
+        "subject": "Dharwad",
+        "relation": "WROTE",
+        "object": "Paper_13"
+    },
+    {
+        "subject": "I. I NTRODUCTION",
+        "relation": "WROTE",
+        "object": "Paper_13"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Radio Access Networks"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "S.J. Yadhunandan$•"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Indian Institute of Technology Dharwad"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "†Rutgers University"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "•Boston University"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "The Open Radio Access Network (Open RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Radio Access\nNetworks"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Artificial Intelligence / Machine Learning"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Radio Access Network"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "The United Nations"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "UN"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Information and Communication Technologies"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "Beyond"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_ON",
+        "object": "212011003@iitdh.ac.in"
+    },
+    {
+        "subject": "Paper_13",
+        "relation": "PUBLISHED_ON",
+        "object": "2030"
+    },
+    {
+        "subject": "Alex  Fernando  \nAI Governance Analyst",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Trustworthy AI",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Alex Fernando",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Alex Fernando  \nhttps://iaeme.com/Home/journal/",
+        "relation": "WROTE",
+        "object": "Paper_14"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Computer Scientist"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "IAEME Publication        \n"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_IN",
+        "object": "International Journal of Computer \nScientist (IJCSCT"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_ON",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_14",
+        "relation": "PUBLISHED_ON",
+        "object": "2(1"
+    }
+]

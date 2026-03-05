@@ -1,0 +1,3374 @@
+[
+    {
+        "source": "metadata",
+        "record_id": 0,
+        "entities": [
+            {
+                "entity_text": "Pengsong Zhang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Artificial Intelligence, Open Access, Scientific Discovery",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 1,
+        "entities": [
+            {
+                "entity_text": "Landscape",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Horizons Chris Lu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "ML Testing",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024 https://arxiv.org/search/?query=machine+learning+testing+survey",
+                "entity_label": "PERCENT"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 2,
+        "entities": [
+            {
+                "entity_text": "Artificial Intelligence and Machine Learning N. Kühl Electronic Markets",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "10.1007",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024-11-09",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "00:00:00",
+                "entity_label": "TIME"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 3,
+        "entities": [
+            {
+                "entity_text": "Data Privacy and Security",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI Security",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Data Privacy",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024–2025",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 4,
+        "entities": [
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI/ML Applications",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024–2025",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 5,
+        "entities": [
+            {
+                "entity_text": "Open Radio Access Networks (Open RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 6,
+        "entities": [
+            {
+                "entity_text": "Experienced Open-Source Developer Productivity Various Authors Empirical Study / Preprint Not Assigned",
+                "entity_label": "EVENT"
+            },
+            {
+                "entity_text": "early-2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 7,
+        "entities": [
+            {
+                "entity_text": "AI Research Agents for Machine Learning Search, Exploration",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI Agents",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Machine Learning Research",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024–2025",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 8,
+        "entities": [
+            {
+                "entity_text": "Horizons Various Authors Survey Paper Not",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML Testing",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Software Engineering",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024 https://arxiv.org/search/?query=machine+learning+testing+survey",
+                "entity_label": "PERCENT"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 9,
+        "entities": [
+            {
+                "entity_text": "Energy-Efficient Open Radio Access Networks Various Authors IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Energy Efficiency",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2024–2025",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 10,
+        "entities": [
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Trustworthy AI",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "https://arxiv.org/search/?query=explainable+AI+decision+support+systems",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 11,
+        "entities": [
+            {
+                "entity_text": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2026-01-21",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "https://arxiv.org/abs/2601.15197",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 12,
+        "entities": [
+            {
+                "entity_text": "Challenges",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Perspectives R. I. Mukhamediev",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "MDPI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "10.3390",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "math10152552 Systematic",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI Review",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2022",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "metadata",
+        "record_id": 13,
+        "entities": [
+            {
+                "entity_text": "Companion Care Sindhu",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "10.61137",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Social Robotics, Human-Robot Interaction Mar-Apr",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 0,
+        "entities": [
+            {
+                "entity_text": "Pengsong Zhang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Xiang Hu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "AI Scientists",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "December 17, 2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 1,
+        "entities": [
+            {
+                "entity_text": "Data Privacy and Security",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "International Journal of Artificial Intelligence & Machine Learning Not Assigned",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 2,
+        "entities": [
+            {
+                "entity_text": "Ghribi  A Living Review Pipeline for AI/ML Applications",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "October 14, 2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 3,
+        "entities": [
+            {
+                "entity_text": "Joel Becker",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Experienced Open-Source Developer Productivity",
+                "entity_label": "EVENT"
+            },
+            {
+                "entity_text": "July 25, 2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 4,
+        "entities": [
+            {
+                "entity_text": "Edan Toledo",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Karen Hambardzumyan AI",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 5,
+        "entities": [
+            {
+                "entity_text": "Jie M. Zhang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Mark Harman",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lei Ma",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yang Liu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2019",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 6,
+        "entities": [
+            {
+                "entity_text": "L. Malakalapalli",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "April 25, 2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 7,
+        "entities": [
+            {
+                "entity_text": "Pooja Negi",
+                "entity_label": "FAC"
+            },
+            {
+                "entity_text": "Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "July-December 2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Artificial Intelligence & Machine Learning  ",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 8,
+        "entities": [
+            {
+                "entity_text": "Alex Fernando",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "January-June 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Computer Scientist",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 9,
+        "entities": [
+            {
+                "entity_text": "Shijie Lian",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Bin Yu BayesianVLA",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Bayesian Decomposition of Vision Language Action Models",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Latent Action Queries",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "January 21, 2026",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 10,
+        "entities": [
+            {
+                "entity_text": "Farha Khan",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Pratima Ojha",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ghizal Firdous Ansari",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Artificial Intelligence (AI) Approaches to",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Unstructured Data",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Pure and Applied Mathematics Journal  ",
+                "entity_label": "WORK_OF_ART"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 11,
+        "entities": [
+            {
+                "entity_text": "Christopher Collins",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Denis Dennehy Artificial",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Information Management  ",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 12,
+        "entities": [
+            {
+                "entity_text": "Jose Ramon Saura",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Domingo Ribeiro-Soriano",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Information Management  ",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "citations",
+        "record_id": 13,
+        "entities": [
+            {
+                "entity_text": "Nina Savela",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Information Management  ",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 0,
+        "entities": [
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Ian Goodfellow",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Mehdi Mirza",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Bing Xu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "David Warde-Farley",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Sherjil Ozair",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Aaron Courville",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yoshua Bengio",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Z. Ghahramani",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "M. Welling",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "C. Cortes",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "N. Lawrence",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "K.Q. Weinberger",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Neural Information Processing Systems",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "27",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Curran Associates, Inc.",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2014",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 1,
+        "entities": [
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI IN DATA",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "SECURITY",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Ghribi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Adnan",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Cassou",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Kevin",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Dalena",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Barbara",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Eich",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Annika",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Andrew K.,",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Oeftiger",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Adrian",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Shea",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Thomas",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Valentino",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Gianluca",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Welsch",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 2,
+        "entities": [
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Understanding O-RAN: Architecture",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "IEEE Communications Surveys & Tutorials",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "25",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "pp",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "1376 1411, 2023",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 3,
+        "entities": [
+            {
+                "entity_text": "4",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Loredana Fattorini",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Raymond Perrault",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yolanda Gil",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Vanessa Parli",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Njenga Kar",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Emily Capstick",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Anka Reuel",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Erik Brynjolfsson",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "John Etchemendy",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Katrina Ligett",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Terah Lyons",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "James Manyika",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Juan Carlos Niebles",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yoav Shoham",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Russell Wald",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Tobi Walsh",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Armin Hamrah",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lapo Santarlasci",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Julia Betts Lotufo",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Alexandra Rome",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Andrew Shi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Sukrut Oak",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "07139",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 4,
+        "entities": [
+            {
+                "entity_text": "5",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity Antonis Antoniades",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Albert Örwall",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Kexun Zhang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yuxi Xie",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "William Yang Wang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "The Thirteenth International Conference on Learning Representations",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 5,
+        "entities": [
+            {
+                "entity_text": "6",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Kexin Pei",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yinzhi Cao",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Junfeng Yang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Suman Jana",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "26th",
+                "entity_label": "ORDINAL"
+            },
+            {
+                "entity_text": "Symposium on Operating Systems Principles",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 6,
+        "entities": [
+            {
+                "entity_text": "7",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Machine Learning Testing: Survey",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Horizons V. Gudepu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "B. Pappu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "T. Javvadi",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "R. Bassoli",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "F. H. Fitzek",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "L. Valcarenghi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "D. Devi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "K. Kondepu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Edge Computing in",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Micro Data Centers for Firefighting",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 7,
+        "entities": [
+            {
+                "entity_text": "8",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "B. Pappu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "T. Javvadi",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "R. Bassoli",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "F. H. Fitzek",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "L. Valcarenghi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "D. Devi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "K. Kondepu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Edge Computing in",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Micro Data Centers for Firefighting",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "C. Freitag",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "M. Berners-Lee",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "B. Knowles",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "G. S. Blair",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Friday",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "ICT",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 8,
+        "entities": [
+            {
+                "entity_text": "9",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Doshi-Velez",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2017",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Ribeiro",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "M. T.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Singh",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "the ACM SIGKDD Conference",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 9,
+        "entities": [
+            {
+                "entity_text": "10",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "H., & Ajmal",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "S.",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2023",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Cosmic Bulletin of Business Management",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Department of Management Sciences",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "UMT",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Unsupervised",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 10,
+        "entities": [
+            {
+                "entity_text": "11",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "BayesianVLA",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Bayesian Decomposition of Vision Language Action Models",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Latent Action Queries",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Shuai Bai",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yuxuan Cai",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ruizhe Chen",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Keqin Chen",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Xionghui Chen",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Zesen Cheng",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lianghao Deng",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Wei Ding",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Chang Gao",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Chunjiang Ge",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Wenbin Ge",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Zhifang Guo",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Qidong Huang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Jie Huang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Fei Huang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Binyuan Hui",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Shutong Jiang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Zhaohai Li",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Mingsheng Li",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "45",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "https://research.nvidia.com/labs/gear/gr00t-n1_5/.",
+                "entity_label": "PRODUCT"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 11,
+        "entities": [
+            {
+                "entity_text": "12",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Artificial Intelligence (AI) Approaches to",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Unstructured Data Rahmani AM",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Azhir",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ali S",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ahmed OH",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yassin Ghafour M",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Hasan Ahmed S",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Hosseinzadeh M. Artifi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Comput Sci",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "14",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "7",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "e488",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 12,
+        "entities": [
+            {
+                "entity_text": "13",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Badjatiya",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Gupta",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Gupta",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "2017",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "26th International World Wide Web Conference",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Ballew",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "B.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2009",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Journal of Electronic Resources",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "6(3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "245–252",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 13,
+        "entities": [
+            {
+                "entity_text": "14",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Atzmüller",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2010",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "European Journal of Research Methods",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Social Sciences",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "references",
+        "record_id": 14,
+        "entities": [
+            {
+                "entity_text": "15",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Akter",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Bandara",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "R.",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Wamba",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "S. F.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Foropon",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "T.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2019",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Information Management  https://doi.org/10.1016/j.ijinfomgt.2019.01.020",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Allen",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "D. K., & Shoard",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2005",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "An International Electronic Journal",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "10(2",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 0,
+        "entities": [
+            {
+                "entity_text": "Pengsong Zhang1*†",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Xiang",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Guowei Huang3†",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yang Qi4†",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Heng Zhang5†",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Xiuxu",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Jiaxing Song6",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Jiabin",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Yijiang",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Shuo Yin9",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Chengxiao Dai10",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Eric Hanchen\nJiang11",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Zhenfei",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Boqin Yuan8",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Jing",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Guinan",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Guanren Qiao15",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Anghong",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lili Pan18*",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Zhenzhong Lan2*",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Xinyu Liu1",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Tecnologia",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Universit",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Studi",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "California",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "San Diego,9Tsinghua",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "California",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Planck Institute for Intelligent Systems,15The Chinese University of Hong Kong,16National University of Singapore",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ten",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 1,
+        "entities": [
+            {
+                "entity_text": "163",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "International Journal of Artificial Intelligence & Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "IJAIML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "July-Dec 2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "pp",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "163",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "3.56",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "9339",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "10.5281",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Faculty of Education",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Amrapali University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Haldwani",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Nainital",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "India",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Department of Computer Science and Engineering",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Amrapali University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Haldwani",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Nainital",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "India",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "the past ten years",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ethical Implications",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 2,
+        "entities": [
+            {
+                "entity_text": "2026-01-22",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "BayesianVLA: Bayesian Decomposition of Vision Language Action\nModels via",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Latent Action Queries\nShijie",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Xiaopeng",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Laurence T. Yang6,1,†Zhaolong",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Chen2,3,9,†\n1HUST2ZGCA3ZGCI4HIT5HKUST(GZ)6ZZU7BUAA8ECNU9DeepCybo",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "ten",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Collapse",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "proposeBayesianVLA",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Bayesian",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Action Queries",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Pointwise Mutual Information",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "PMI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "BayesianVLA",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "SimplerEnv",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Casa",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "SimplerEnv",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Kim et al.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Liu et al.",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Bjorck",
+                "entity_label": "GPE"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 3,
+        "entities": [
+            {
+                "entity_text": "Pure and Applied Mathematics Journal",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "14",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "pp",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "114",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "https://doi.org/10.11648/j.pamj.20251405.12",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "20 July 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "12",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "August 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "25",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "September 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Science Publishing Group",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Open Access",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "the Creative Commons Attribution 4.0 License",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Article  \nMachine Learning (ML",
+                "entity_label": "LAW"
+            },
+            {
+                "entity_text": "Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Approaches to Unstructured Data  \nFarha Khan1",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Pratima Ojha1",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Ghizal Firdous",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Mathematics, Madhyanchal Professional University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "India",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Physics",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Madhyanchal Professional University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "India",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "BDPM",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Unstructured Data",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 4,
+        "entities": [
+            {
+                "entity_text": "International Journal of Information Management",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "102383",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "8 July 2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "CC",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "http://creativecommons.org/licenses/by/4.0/",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Christopher Collinsa",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Denis Dennehya",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Kieran Conboya",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Patrick Mikalefb",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Galway",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Upper Newcastle Road",
+                "entity_label": "FAC"
+            },
+            {
+                "entity_text": "Galway",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Ireland",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "bNorwegian University of Science and Technology",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Høgskoleringen 1",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Trondheim",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Norway",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "recent years",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "between 2005",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2020",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "1877",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "98",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Chi",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Huang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2020",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Collins",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Youngdahl",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Mobasher",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "1998",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Nissen & Sengupta",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2006",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Rodriguez-Aguilar",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Martin",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Noriega",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Garcia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Sierra",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "1998",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Ali",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Shrestha",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "2018",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2014",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Mettler",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Sprenge",
+                "entity_label": "PRODUCT"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 5,
+        "entities": [
+            {
+                "entity_text": "International Journal of Information Management",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "102361",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "23",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "May 2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Nina Savelaa",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Atte Oksanena",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Max Pellertb",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "David Garciab",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "aFaculty of Social Sciences",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Tampere University \nbInstitute of",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Interactive Systems",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Data Science, Department of Computer Science and Biomedical Engineering",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Graz University of Technology \ncComplexity Science Hub Vienna",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "dCenter",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Medical Statistics",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Informatics",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Intelligent Systems",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Medical University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "three",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2019",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2020",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "the United States",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "organi -\nzation",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "six",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "many years",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "COVID-19",
+                "entity_label": "PERSON"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 6,
+        "entities": [
+            {
+                "entity_text": "International Journal of Information Management",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "102331",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "19",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "February 2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2021",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Jose Ramon Sauraa",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Domingo Ribeiro-Sorianob",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Daniel Palacios-Marqu",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "aRey Juan Carlos University",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Madrid",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Spain",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Universitat de Valencia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Valencia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Spain",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "cUniversitat Politˇecnica de Valˇencia",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Valencia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Spain",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "recent years",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "UGD",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "three",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "SLR",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "UGD",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "14",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 7,
+        "entities": [
+            {
+                "entity_text": "IJAIML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "35",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "International Journal of Artificial Intelligence & Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "pp",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "35-49",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2024",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "3.56",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "9339",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "SECURITY",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MD",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "USA",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Artificial",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "first",
+                "entity_label": "ORDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "secondly",
+                "entity_label": "ORDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 8,
+        "entities": [
+            {
+                "entity_text": "Caen",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "France",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "October 14, 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "InspireHEP",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "OpenAlex",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "Crossref",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Springer",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "JSON",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "HTML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "PDF",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "EXformats",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "/month",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "AI/ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "anomaly detection",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "surro-\ngate",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "1–3",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 9,
+        "entities": [
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "R. Soundrarajan",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "C. Fiandrino",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "L. Bonati",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "T. Melodia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "IEEE COMMAG",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "IEEE COMMUNICATIONS MAGAZINE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "VOL",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "XX",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "MAY 2025 1",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Rahul Soundrarajan",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Claudio Fiandrino",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Michele",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Leonardo Bonati",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "IEEE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Tommaso Melodia",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Fellow",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "the Radio Access Network",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "EXplainable Artificial Intelligence",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Deep Reinforcement Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "DRL",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Decision Tree",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "DT",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 10,
+        "entities": [
+            {
+                "entity_text": "Measuring the Impact of Early-2025",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Experienced Open-Source Developer Productivity\nJoel Becker∗, Nate Rush∗",
+                "entity_label": "WORK_OF_ART"
+            },
+            {
+                "entity_text": "Beth Barnes",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "David Rein",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Model Evaluation & Threat Research",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "RCT",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "February",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "June 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "16",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "246",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "early-2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Cursor Pro",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Claude 3.5/3.7 Sonnet",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "24%",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "20%",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "19%—AI",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "39%",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "38%",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "21",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Frontier AI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "4",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "5",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "6",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "7",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "8",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "9",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 11,
+        "entities": [
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "AI Research Agents for Machine Learning: Search",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Edan",
+                "entity_label": "NORP"
+            },
+            {
+                "entity_text": "Alexis Audran-Reiss1,Michael",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Kuchnik1,Despoina",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Jiang1,Alisia Maria Lupidi1,Andrei",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lupu1,Roberta",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Raileanu1,Kelvin Niu1,Tatiana",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Sodhani1,Alexander H. Miller1,Abhishek Charnalia1,Derek Dunfield1,Carole -Jean\nWu1,Pontus Stenetorp2,Nicola Cancedda1,Jakob Nicolaus Foerster1,Yoram Bachrach1\n1FAIR",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Meta,2University College London,3Örebro University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "UNO",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Meta\nAI",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Kaggle",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Greedy",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MCTS, Evolutionary",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "MLE",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Kaggle",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "39.6 % to",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "47.7 %",
+                "entity_label": "PERCENT"
+            },
+            {
+                "entity_text": "July 4, 2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "Karen Hambardzumyan",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Martin Josifoski",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Yoram Bachrach",
+                "entity_label": "PERSON"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 12,
+        "entities": [
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Jie M. Zhang",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Mark Harman",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Lei Ma",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "144",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "F\n1",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "3",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Software",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "4",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "DeepXplore",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "thousands",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Themis",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "5",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "as many as",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 13,
+        "entities": [
+            {
+                "entity_text": "Radio Access Networks",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "B. Chirumamilla†",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "S.J. Yadhunandan$•",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Indian Institute of Technology Dharwad",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Dharwad",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "India",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "†Rutgers University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "USA",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "•Boston University",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Boston",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "USA",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "212011003@iitdh.ac.in",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "The Open Radio Access Network (Open RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Radio Access\nNetworks",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Artificial Intelligence / Machine Learning",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI/ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "AI/ML",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Radio Access Network",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "RAN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "I. I NTRODUCTION",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "The United Nations",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "UN",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2030",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Information and Communication Technologies",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ICT",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Beyond",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "ICT",
+                "entity_label": "ORG"
+            }
+        ]
+    },
+    {
+        "source": "ingested",
+        "record_id": 14,
+        "entities": [
+            {
+                "entity_text": "https://iaeme.com/Home/journal/",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "International Journal of Computer Scientist",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "pp",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "1-7",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "https://iaeme.com/Home/issue/ IJCSCT",
+                "entity_label": "FAC"
+            },
+            {
+                "entity_text": "2&Issue= 1",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "8381",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "IAEME Publication        \n",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "Alex  Fernando  \nAI Governance Analyst",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Spain",
+                "entity_label": "GPE"
+            },
+            {
+                "entity_text": "Model \nTransparency",
+                "entity_label": "PRODUCT"
+            },
+            {
+                "entity_text": "Trustworthy AI",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "Alex Fernando",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2025",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "International Journal of Computer \nScientist (IJCSCT",
+                "entity_label": "ORG"
+            },
+            {
+                "entity_text": "2(1",
+                "entity_label": "DATE"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "2_ISSUE",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "Alex Fernando  \nhttps://iaeme.com/Home/journal/",
+                "entity_label": "PERSON"
+            },
+            {
+                "entity_text": "2",
+                "entity_label": "CARDINAL"
+            },
+            {
+                "entity_text": "1",
+                "entity_label": "CARDINAL"
+            }
+        ]
+    }
+]

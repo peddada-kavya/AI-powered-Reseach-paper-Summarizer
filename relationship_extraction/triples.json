@@ -1,0 +1,3082 @@
+[
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Pengsong Zhang"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence, Open Access, Scientific Discovery"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Landscape"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Horizons Chris Lu"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML Testing"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence and Machine Learning N. Kühl Electronic Markets"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024-11-09"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Data Privacy and Security"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Security"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Data Privacy"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI/ML Applications"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Open Radio Access Networks (Open RAN"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "early-2025"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Research Agents for Machine Learning Search, Exploration"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Agents"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "Machine Learning Research"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "Horizons Various Authors Survey Paper Not"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML Testing"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "Software Engineering"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Energy-Efficient Open Radio Access Networks Various Authors IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Energy Efficiency"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Trustworthy AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "https://arxiv.org/search/?query=explainable+AI+decision+support+systems"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2026-01-21"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Challenges"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Perspectives R. I. Mukhamediev"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "MDPI"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "math10152552 Systematic"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Review"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2022"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Companion Care Sindhu"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Social Robotics, Human-Robot Interaction Mar-Apr"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Pengsong Zhang"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Xiang Hu"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Scientists"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "December 17, 2025"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Data Privacy and Security"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning Not Assigned"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Ghribi  A Living Review Pipeline for AI/ML Applications"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "October 14, 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Joel Becker"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "July 25, 2025"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Edan Toledo"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Karen Hambardzumyan AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jie M. Zhang"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Mark Harman"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Lei Ma"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yang Liu"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2019"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "L. Malakalapalli"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "April 25, 2025"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "July-December 2024"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning  "
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alex Fernando"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "January-June 2025"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Computer Scientist"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Shijie Lian"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Bin Yu BayesianVLA"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Latent Action Queries"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "January 21, 2026"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Farha Khan"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Pratima Ojha"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ghizal Firdous Ansari"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence (AI) Approaches to"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Unstructured Data"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Christopher Collins"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Denis Dennehy Artificial"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jose Ramon Saura"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Domingo Ribeiro-Soriano"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "HAS_AUTHOR",
+        "object": "Nina Savela"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  "
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ian Goodfellow"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Mehdi Mirza"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Bing Xu"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "David Warde-Farley"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Sherjil Ozair"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Aaron Courville"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yoshua Bengio"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Z. Ghahramani"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "M. Welling"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "C. Cortes"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "N. Lawrence"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "K.Q. Weinberger"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "Neural Information Processing Systems"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "Curran Associates, Inc."
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2014"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI IN DATA"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "SECURITY"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ghribi"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Adnan"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Cassou"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kevin"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Dalena"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Barbara"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Eich"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Andrew K.,"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Oeftiger"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Shea"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Thomas"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Valentino"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Gianluca"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Welsch"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE Communications Surveys & Tutorials"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "pp"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "1376 1411, 2023"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Loredana Fattorini"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Raymond Perrault"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yolanda Gil"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Vanessa Parli"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Njenga Kar"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Emily Capstick"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Anka Reuel"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Erik Brynjolfsson"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "John Etchemendy"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Katrina Ligett"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Terah Lyons"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "James Manyika"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Juan Carlos Niebles"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yoav Shoham"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Russell Wald"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Tobi Walsh"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Armin Hamrah"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Lapo Santarlasci"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Julia Betts Lotufo"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alexandra Rome"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Andrew Shi"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Sukrut Oak"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "07139"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Albert Örwall"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kexun Zhang"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yuxi Xie"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "William Yang Wang"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "The Thirteenth International Conference on Learning Representations"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kexin Pei"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yinzhi Cao"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Junfeng Yang"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Suman Jana"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Symposium on Operating Systems Principles"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "Machine Learning Testing: Survey"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Horizons V. Gudepu"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "B. Pappu"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "T. Javvadi"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "R. Bassoli"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "F. H. Fitzek"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "L. Valcarenghi"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "D. Devi"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "K. Kondepu"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "Micro Data Centers for Firefighting"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "B. Pappu"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "T. Javvadi"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "R. Bassoli"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "F. H. Fitzek"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "L. Valcarenghi"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "D. Devi"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "K. Kondepu"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "Micro Data Centers for Firefighting"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "C. Freitag"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "M. Berners-Lee"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "B. Knowles"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "HAS_AUTHOR",
+        "object": "G. S. Blair"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "Friday"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "Doshi-Velez"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2017"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ribeiro"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "M. T."
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Singh"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "the ACM SIGKDD Conference"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "H., & Ajmal"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "S."
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2023"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Cosmic Bulletin of Business Management"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Department of Management Sciences"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "UMT"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Unsupervised"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "BayesianVLA"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Bayesian Decomposition of Vision Language Action Models"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Latent Action Queries"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Shuai Bai"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yuxuan Cai"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ruizhe Chen"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Keqin Chen"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Xionghui Chen"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Zesen Cheng"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Lianghao Deng"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Wei Ding"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Chang Gao"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Chunjiang Ge"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Wenbin Ge"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Zhifang Guo"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Qidong Huang"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jie Huang"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Fei Huang"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Binyuan Hui"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Shutong Jiang"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Zhaohai Li"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Mingsheng Li"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence (AI) Approaches to"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Unstructured Data Rahmani AM"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Azhir"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ali S"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ahmed OH"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yassin Ghafour M"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Hasan Ahmed S"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Hosseinzadeh M. Artifi"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Comput Sci"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Badjatiya"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Gupta"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Gupta"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2017"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "26th International World Wide Web Conference"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ballew"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "B."
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2009"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "Journal of Electronic Resources"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "HAS_AUTHOR",
+        "object": "Atzmüller"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2010"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "European Journal of Research Methods"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Social Sciences"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Akter"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Bandara"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "Wamba"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "S. F."
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "T."
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2019"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management  https://doi.org/10.1016/j.ijinfomgt.2019.01.020"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "Allen"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "D. K., & Shoard"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2005"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "An International Electronic Journal"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Pengsong Zhang1*†"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Xiang"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Guowei Huang3†"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yang Qi4†"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Heng Zhang5†"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Xiuxu"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jiaxing Song6"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Jiabin"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Yijiang"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Shuo Yin9"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Chengxiao Dai10"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Eric Hanchen\nJiang11"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Zhenfei"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Boqin Yuan8"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jing"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Guinan"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Guanren Qiao15"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Anghong"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Lili Pan18*"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Zhenzhong Lan2*"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "HAS_AUTHOR",
+        "object": "Xinyu Liu1"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Tecnologia"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Universit"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Studi"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "California"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "San Diego,9Tsinghua"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "California"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "Planck Institute for Intelligent Systems,15The Chinese University of Hong Kong,16National University of Singapore"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_0",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "IJAIML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "July-Dec 2024"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "pp"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "9339"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Faculty of Education"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Amrapali University"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Haldwani"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Nainital"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "India"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Department of Computer Science and Engineering"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Amrapali University"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Haldwani"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Nainital"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "India"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "the past ten years"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "HAS_AUTHOR",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_1",
+        "predicate": "PUBLISHED_IN",
+        "object": "Ethical Implications"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2026-01-22"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "BayesianVLA: Bayesian Decomposition of Vision Language Action\nModels via"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Latent Action Queries\nShijie"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Xiaopeng"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "HAS_AUTHOR",
+        "object": "Laurence T. Yang6,1,†Zhaolong"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "HAS_AUTHOR",
+        "object": "Chen2,3,9,†\n1HUST2ZGCA3ZGCI4HIT5HKUST(GZ)6ZZU7BUAA8ECNU9DeepCybo"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Collapse"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Pointwise Mutual Information"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "PMI"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "HAS_AUTHOR",
+        "object": "BayesianVLA"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "SimplerEnv"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "Casa"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_IN",
+        "object": "SimplerEnv"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kim et al."
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "HAS_AUTHOR",
+        "object": "Liu et al."
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_2",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Bjorck"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "14"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "pp"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "https://doi.org/10.11648/j.pamj.20251405.12"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "20 July 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "August 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "September 2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Science Publishing Group"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "the Creative Commons Attribution 4.0 License"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Approaches to Unstructured Data  \nFarha Khan1"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Pratima Ojha1"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ghizal Firdous"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Mathematics, Madhyanchal Professional University"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "India"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Physics"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Madhyanchal Professional University"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "India"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "BDPM"
+    },
+    {
+        "subject": "Paper_3",
+        "predicate": "PUBLISHED_IN",
+        "object": "Unstructured Data"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "102383"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "8 July 2021"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "CC"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Christopher Collinsa"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Denis Dennehya"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kieran Conboya"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Patrick Mikalefb"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Galway"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Galway"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Ireland"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "bNorwegian University of Science and Technology"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "Høgskoleringen 1"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Trondheim"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Norway"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "recent years"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "between 2005"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "1877"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Chi"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Huang"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Collins"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Mobasher"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "1998"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "Nissen & Sengupta"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2006"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "Rodriguez-Aguilar"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Martin"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Noriega"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Garcia"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "Sierra"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "1998"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "HAS_AUTHOR",
+        "object": "Ali"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Shrestha"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2018"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2014"
+    },
+    {
+        "subject": "Paper_4",
+        "predicate": "PUBLISHED_IN",
+        "object": "Mettler"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "102361"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "May 2021"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Nina Savelaa"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Atte Oksanena"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "Max Pellertb"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "David Garciab"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "aFaculty of Social Sciences"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Tampere University \nbInstitute of"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Interactive Systems"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Data Science, Department of Computer Science and Biomedical Engineering"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Graz University of Technology \ncComplexity Science Hub Vienna"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "dCenter"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Medical Statistics"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Informatics"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Intelligent Systems"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "Medical University"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2019"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2020"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "the United States"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_IN",
+        "object": "organi -\nzation"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "many years"
+    },
+    {
+        "subject": "Paper_5",
+        "predicate": "HAS_AUTHOR",
+        "object": "COVID-19"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Information Management"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "102331"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "February 2021"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2021"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jose Ramon Sauraa"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Domingo Ribeiro-Sorianob"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Daniel Palacios-Marqu"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "aRey Juan Carlos University"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Madrid"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Spain"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Universitat de Valencia"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Valencia"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Spain"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "cUniversitat Politˇecnica de Valˇencia"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "HAS_AUTHOR",
+        "object": "Valencia"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Spain"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "recent years"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "UGD"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "SLR"
+    },
+    {
+        "subject": "Paper_6",
+        "predicate": "PUBLISHED_IN",
+        "object": "UGD"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "IJAIML"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Artificial Intelligence & Machine Learning"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "pp"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "35-49"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2024"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "9339"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "PUBLISHED_IN",
+        "object": "SECURITY"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "MD"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "USA"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Artificial"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_7",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "Caen"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "France"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "October 14, 2025"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "InspireHEP"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "Crossref"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "HAS_AUTHOR",
+        "object": "Springer"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "JSON"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "HTML"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "PDF"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "EXformats"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "/month"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "anomaly detection"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "surro-\ngate"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_8",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "R. Soundrarajan"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "C. Fiandrino"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "L. Bonati"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "T. Melodia"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE COMMAG"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE COMMUNICATIONS MAGAZINE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "VOL"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "XX"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "MAY 2025 1"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Rahul Soundrarajan"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Claudio Fiandrino"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Michele"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Leonardo Bonati"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "IEEE"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "HAS_AUTHOR",
+        "object": "Tommaso Melodia"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Fellow"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "the Radio Access Network"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "EXplainable Artificial Intelligence"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Deep Reinforcement Learning"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "DRL"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "PUBLISHED_IN",
+        "object": "Decision Tree"
+    },
+    {
+        "subject": "Paper_9",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Beth Barnes"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "David Rein"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Model Evaluation & Threat Research"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "RCT"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "February"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "June 2025"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "early-2025"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Cursor Pro"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "HAS_AUTHOR",
+        "object": "Claude 3.5/3.7 Sonnet"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "AI"
+    },
+    {
+        "subject": "Paper_10",
+        "predicate": "PUBLISHED_IN",
+        "object": "Frontier AI"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI Research Agents for Machine Learning: Search"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alexis Audran-Reiss1,Michael"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Kuchnik1,Despoina"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jiang1,Alisia Maria Lupidi1,Andrei"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Lupu1,Roberta"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Raileanu1,Kelvin Niu1,Tatiana"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Sodhani1,Alexander H. Miller1,Abhishek Charnalia1,Derek Dunfield1,Carole -Jean\nWu1,Pontus Stenetorp2,Nicola Cancedda1,Jakob Nicolaus Foerster1,Yoram Bachrach1\n1FAIR"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Meta,2University College London,3Örebro University"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "UNO"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Meta\nAI"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kaggle"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "Greedy"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "MCTS, Evolutionary"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_IN",
+        "object": "MLE"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Kaggle"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "July 4, 2025"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Karen Hambardzumyan"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Martin Josifoski"
+    },
+    {
+        "subject": "Paper_11",
+        "predicate": "HAS_AUTHOR",
+        "object": "Yoram Bachrach"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Jie M. Zhang"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Mark Harman"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "HAS_AUTHOR",
+        "object": "Lei Ma"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "Machine Learning"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "Software"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "DeepXplore"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Themis"
+    },
+    {
+        "subject": "Paper_12",
+        "predicate": "PUBLISHED_IN",
+        "object": "ML"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Radio Access Networks"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "HAS_AUTHOR",
+        "object": "B. Chirumamilla†"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "S.J. Yadhunandan$•"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Indian Institute of Technology Dharwad"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "HAS_AUTHOR",
+        "object": "Dharwad"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "India"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "†Rutgers University"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "USA"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "•Boston University"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Boston"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "USA"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "212011003@iitdh.ac.in"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "The Open Radio Access Network (Open RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Radio Access\nNetworks"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Artificial Intelligence / Machine Learning"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "AI/ML"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Radio Access Network"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "RAN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "HAS_AUTHOR",
+        "object": "I. I NTRODUCTION"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "The United Nations"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "UN"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2030"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Information and Communication Technologies"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "Beyond"
+    },
+    {
+        "subject": "Paper_13",
+        "predicate": "PUBLISHED_IN",
+        "object": "ICT"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Computer Scientist"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "pp"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "IAEME Publication        \n"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alex  Fernando  \nAI Governance Analyst"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "ASSOCIATED_WITH_LOCATION",
+        "object": "Spain"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "Trustworthy AI"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alex Fernando"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2025"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_IN",
+        "object": "International Journal of Computer \nScientist (IJCSCT"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "PUBLISHED_YEAR",
+        "object": "2(1"
+    },
+    {
+        "subject": "Paper_14",
+        "predicate": "HAS_AUTHOR",
+        "object": "Alex Fernando  \nhttps://iaeme.com/Home/journal/"
+    }
+]
